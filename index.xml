@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Java 并发——基石篇 作者：createchance
+邮箱：createchance@163.com
+日期：2019.07.28
+版本：v1.0
+
+本作品采用知识共享署名-相同方式共享 4.0 国际许可协议进行许可。
+
+目录 [TOC]
+
+导读 声明：本文所有的分析内容基于 OpenDK 的 java 11 版本的 HotSpot JVM 源代码。
+在阅读本文之前，你需要：
+ 了解 Java 中的基本的线程使用方式以及注意点 了解 Java 中的基本线程间通讯的方式 了解 Java 中的 volatile 的基本语义 了解 C/C++ 编程 了解 JNI 的相关开发知识 了解一些 x86 的汇编（仅仅是很简单的内容，要求能读懂）  本文重点分析内容：
+ 共享内存多核系统基本架构与设计 Java 内存模型设计 Java Thread 的创建与停止 Java synchonized 的实现机制 Java Object 的 wait 和 notify/notifyAll 实现机制 Java volatile 关键字的实现方式  阅读建议：</description>
+    </item>
+    
+  </channel>
+</rss>
