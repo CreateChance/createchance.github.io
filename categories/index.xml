@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Createchance 的博客</title>
+    <link>https://createchance.github.io/categories/</link>
+    <description>Recent content in Categories on Createchance 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    <copyright>createchance</copyright>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://createchance.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+  </channel>
+</rss>="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java 并发</title>
+      <link>https://createchance.github.io/categories/java-%E5%B9%B6%E5%8F%91/</link>
+      <pubDate>Wed, 31 Jul 2019 10:15:34 +0800</pubDate>
+      
+      <guid>https://createchance.github.io/categories/java-%E5%B9%B6%E5%8F%91/</guid>
+      <description>Java 并发 Java 并发——基石篇</description>
+    </item>
     
   </channel>
 </rss>

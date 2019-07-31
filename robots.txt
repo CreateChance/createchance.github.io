@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://createchance.github.io/sitemap.xml
