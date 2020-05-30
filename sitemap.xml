@@ -2,13 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://createchance.github.io/categories/</loc>
-    <lastmod>2019-07-31T10:15:34+08:00</lastmod>
+    <loc>https://createchance.github.io/</loc>
+    <lastmod>2020-05-30T06:53:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://createchance.github.io/</loc>
+    <loc>https://createchance.github.io/post/</loc>
+    <lastmod>2020-05-30T06:53:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://createchance.github.io/post/%E4%B8%80%E6%AC%A1%E6%B7%B1%E5%85%A5%E9%AA%A8%E9%AB%93%E7%9A%84-volatile-%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2020-05-30T06:53:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://createchance.github.io/categories/</loc>
     <lastmod>2019-07-31T10:15:34+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -25,12 +38,6 @@
     <lastmod>2019-07-31T10:15:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://createchance.github.io/post/</loc>
-    <lastmod>2019-07-31T10:15:34+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
